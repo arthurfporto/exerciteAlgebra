@@ -3,20 +3,20 @@ group: oficina
 
 FORNECEDOR = { fId fNome fEndereco
 1 JoCar Salinas
-2 ZéCar Taiobeiras
+2 ZeCar Taiobeiras
 3 SalCar Rubelita
 4 PrimeCar Matrona
 }
 
 PECA = { pId pNome pCor
-1 Caçamba Vermelha
-2 Caçamba Verde
-3 Capô Vermelha
-4 Capô Verde
+1 Cacamba Vermelha
+2 Cacamba Verde
+3 Capo Vermelha
+4 Capo Verde
 5 Painel Vermelha
 6 Painel Verde
-7 Para-lama Vermelha
-8 Para-lama Verde
+7 Paralama Vermelha
+8 Paralama Verde
 9 Porta  Vermelha
 10 Porta  Verde
 11 Saia Vermelha
